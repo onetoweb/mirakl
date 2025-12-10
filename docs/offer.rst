@@ -47,8 +47,8 @@ Get information and statistics about offer imports
 Import stock from array
 ```````````````````````
 
-Status of the import can be viewed with 'Get information and statistics about an offer import'
-Error report of the import can be viewed with 'Get the error report file for an offer import'
+| Status of the import can be viewed with 'Get information and statistics about an offer import'
+| Error report of the import can be viewed with 'Get the error report file for an offer import'
 
 .. code-block:: php
     
