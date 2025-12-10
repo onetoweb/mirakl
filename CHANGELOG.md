@@ -5,3 +5,7 @@
  - Initial release
  - Offer overview
  - Offer price import
+
+## [1.0.1] - 2025-12-10
+
+ - Complete offer endpoint

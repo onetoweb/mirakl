@@ -6,19 +6,21 @@ trait CsvTrait
 {
     /**
      * @param array $row
+     * @param array $append = []
      * 
      * @return string
      */
-    public static function createCsvString(array $data): string
+    public static function createCsvString(array $data, array $append = []): string
     {
         $csv = '';
         
-        $headers = array_keys(current($data));
+        $headers = array_keys(array_merge(current($data), $append));
         
         $csv .= self::createCsvStringRow($headers);
         
         foreach ($data as $row) {
-            $csv .= self::createCsvStringRow($row);
+            
+            $csv .= self::createCsvStringRow(array_merge($row, $append));
         }
         
         return $csv;
@@ -26,6 +28,7 @@ trait CsvTrait
     
     /**
      * @param array $row
+     * @param array $append = []
      * 
      * @return string
      */
@@ -33,7 +36,7 @@ trait CsvTrait
     {
         $csv = '';
         
-        $colCount = count($row);
+        $colCount = count(array_merge($row));
         $i = 0;
         foreach ($row as $col) {
             
