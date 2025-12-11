@@ -13,3 +13,4 @@
 ## [1.0.2] - 2025-12-11
 
  - Store endpoint
+ - Platform endpoint
