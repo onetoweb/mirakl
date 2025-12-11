@@ -30,4 +30,5 @@ Setup
 Examples
 ========
 
+* `Stores <store.rst>`_
 * `Offer <offer.rst>`_
