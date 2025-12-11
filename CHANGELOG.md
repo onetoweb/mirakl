@@ -15,3 +15,4 @@
  - Store endpoint
  - Platform endpoint
  - Accounting endpoint
+ - Product endpoint
