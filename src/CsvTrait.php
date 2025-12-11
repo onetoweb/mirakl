@@ -28,29 +28,11 @@ trait CsvTrait
     
     /**
      * @param array $row
-     * @param array $append = []
      * 
      * @return string
      */
     public static function createCsvStringRow(array $row): string
     {
-        $csv = '';
-        
-        $colCount = count(array_merge($row));
-        $i = 0;
-        foreach ($row as $col) {
-            
-            $csv .= '"'.$col.'"';
-            
-            if ($i < ($colCount - 1)) {
-                $csv .= ';';
-            }
-            
-            $i++;
-        }
-        
-        $csv .= PHP_EOL;
-        
-        return $csv;
+        return '"'.implode('";"', $row).'"'.PHP_EOL;
     }
 }

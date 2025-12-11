@@ -173,6 +173,9 @@ class Client
                 'contents' => base64_encode($contents)
             ];
             
+        } else {
+            
+            $json = null;
         }
         
         return $json;

@@ -33,3 +33,4 @@ Examples
 * `Stores <store.rst>`_
 * `Offer <offer.rst>`_
 * `Platform Settings <platform.rst>`_
+* `Invoicing and Accounting <accounting.rst>`_
