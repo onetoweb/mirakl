@@ -318,12 +318,17 @@ Poll the status of an asynchronous offer export
 Retrieve offer files once asynchronous offer export is complete
 ```````````````````````````````````````````````````````````````
 
+| Use the url returned by 'Poll the status of an asynchronous offer export'
+
 .. code-block:: php
     
-    // url return by 'Poll the status of an asynchronous offer export'
     $url = 'https://yourinstance.mirakl.net/api/offers/export/async/file/00000000-0000-0000-0000-000000000000?file=of52-export/obelinknl-prod/00000000-0000-0000-0000-000000000000/0.cs';
     
-    exportAsyncDownload
+    $result = $client->offer->exportAsyncDownload($url);
+    
+    // store file
+    $filename = '/path/to/'.$result['filename'];
+    $result = \Onetoweb\Mirakl\Utils::storeFile($filename, $result);
 
 
 List offers for each given product
