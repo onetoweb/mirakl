@@ -31,8 +31,8 @@ Examples
 ========
 
 * `Stores <store.rst>`_
-* `Offer <offer.rst>`_
 * `Platform Settings <platform.rst>`_
 * `Invoicing and Accounting <accounting.rst>`_
 * `Products <product.rst>`_
 * `Messages <message.rst>`_
+* `Offers <offer.rst>`_

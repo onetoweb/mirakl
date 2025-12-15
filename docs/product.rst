@@ -1,11 +1,11 @@
 .. _top:
-.. title:: Shop
+.. title:: Products
 
 `Back to index <index.rst>`_
 
-=======
-Product
-=======
+========
+Products
+========
 
 .. contents::
     :local:

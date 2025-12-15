@@ -1,11 +1,11 @@
 .. _top:
-.. title:: Message
+.. title:: Messages
 
 `Back to index <index.rst>`_
 
-=======
-Message
-=======
+========
+Messages
+========
 
 .. contents::
     :local:

@@ -1,11 +1,11 @@
 .. _top:
-.. title:: Offer
+.. title:: Offers
 
 `Back to index <index.rst>`_
 
-=====
-Offer
-=====
+======
+Offers
+======
 
 .. contents::
     :local:

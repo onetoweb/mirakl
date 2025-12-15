@@ -1,11 +1,11 @@
 .. _top:
-.. title:: Accounting
+.. title:: Invoicing and Accounting
 
 `Back to index <index.rst>`_
 
-==========
-Accounting
-==========
+========================
+Invoicing and Accounting
+========================
 
 .. contents::
     :local:
