@@ -124,7 +124,7 @@ Upload business documents to associate with a shop
 .. code-block:: php
     
     $files = [
-        '/path/to/file1'
+        '/path/to/file1',
         '/path/to/file2'
     ];
     $result = $client->store->uploadDocument([
