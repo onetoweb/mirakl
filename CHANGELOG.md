@@ -20,3 +20,4 @@
 ## [1.0.2] - 2025-12-15
 
  - Message endpoint
+ - Order endpoint

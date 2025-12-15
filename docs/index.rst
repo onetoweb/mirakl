@@ -36,3 +36,4 @@ Examples
 * `Products <product.rst>`_
 * `Messages <message.rst>`_
 * `Offers <offer.rst>`_
+* `Orders <order.rst>`_
