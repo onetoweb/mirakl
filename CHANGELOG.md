@@ -16,3 +16,7 @@
  - Platform endpoint
  - Accounting endpoint
  - Product endpoint
+
+## [1.0.2] - 2025-12-15
+
+ - Message endpoint
