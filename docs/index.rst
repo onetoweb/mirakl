@@ -40,3 +40,4 @@ Examples
 * `Incidents <incident.rst>`_
 * `Picklists <picklist.rst>`_
 * `Promotions <promotion.rst>`_
+* `Users <user.rst>`_

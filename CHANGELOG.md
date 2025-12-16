@@ -27,3 +27,4 @@
  - Incident endpoint
  - Picklist endpoint
  - Promotion endpoint
+ - User endpoint
