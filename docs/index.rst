@@ -42,3 +42,4 @@ Examples
 * `Promotions <promotion.rst>`_
 * `Users <user.rst>`_
 * `Returns <returns.rst>`_
+* `Multiple shipments <shipment.rst>`_

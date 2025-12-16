@@ -29,3 +29,4 @@
  - Promotion endpoint
  - User endpoint
  - Returns endpoint
+ - Shipment endpoint
