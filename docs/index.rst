@@ -37,3 +37,4 @@ Examples
 * `Messages <message.rst>`_
 * `Offers <offer.rst>`_
 * `Orders <order.rst>`_
+* `Incidents <incident.rst>`_

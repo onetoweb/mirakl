@@ -17,7 +17,11 @@
  - Accounting endpoint
  - Product endpoint
 
-## [1.0.2] - 2025-12-15
+## [1.0.3] - 2025-12-15
 
  - Message endpoint
  - Order endpoint
+
+## [1.0.4] - 2025-12-16
+
+ - Incident endpoint
