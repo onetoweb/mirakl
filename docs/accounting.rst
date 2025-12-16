@@ -16,7 +16,7 @@ List accounting documents requests
 
 .. code-block:: php
     
-    $result = $client->accounting->listRequest([
+    $result = $client->accounting->listRequests([
         
         // optional parameters
         'id' => 'string',
