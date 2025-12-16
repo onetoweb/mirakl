@@ -41,3 +41,4 @@ Examples
 * `Picklists <picklist.rst>`_
 * `Promotions <promotion.rst>`_
 * `Users <user.rst>`_
+* `Returns <returns.rst>`_

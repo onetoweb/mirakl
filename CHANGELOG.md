@@ -28,3 +28,4 @@
  - Picklist endpoint
  - Promotion endpoint
  - User endpoint
+ - Returns endpoint
