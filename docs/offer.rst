@@ -47,8 +47,8 @@ Get information and statistics about offer imports
 Import stock from array
 ```````````````````````
 
-| Status of the import can be viewed with 'Get information and statistics about an offer import'
-| Error report of the import can be viewed with 'Get the error report file for an offer import'
+| Status of the import can be viewed with `Get information and statistics about an offer import <#get-information-and-statistics-about-an-offer-import>`_
+| Error report of the import can be viewed with `Get the error report file for an offer import <#get-the-error-report-file-for-an-offer-import>`_
 
 .. code-block:: php
     
@@ -80,7 +80,7 @@ Get the error report file for an offer import
 .. code-block:: php
     
     $importId = '42';
-    $result = $client->offer->getImportFile($importId, [
+    $result = $client->offer->getImportErrorReport($importId, [
         
         // optional parameters
         'shop_id' => 0
