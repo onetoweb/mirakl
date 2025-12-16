@@ -25,3 +25,5 @@
 ## [1.0.4] - 2025-12-16
 
  - Incident endpoint
+ - Picklist endpoint
+ - Promotion endpoint

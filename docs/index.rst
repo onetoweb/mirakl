@@ -38,3 +38,5 @@ Examples
 * `Offers <offer.rst>`_
 * `Orders <order.rst>`_
 * `Incidents <incident.rst>`_
+* `Picklists <picklist.rst>`_
+* `Promotions <promotion.rst>`_
